@@ -1,4 +1,4 @@
-![workflow](https://github.com/Thawzin-hein/sem2/actions/workflows/android.yml/badge.svg) 
+![workflow](https://github.com/Thawzin-hein/sem2/actions/workflows/action.yml/badge.svg) 
 
 [![LICENSE](https://img.shields.io/github/license/Thawzin-hein/sem2.svg?style=flat-square)](https://github.com/Thawzin-hein/sem2/blob/master/LICENSE)
 
