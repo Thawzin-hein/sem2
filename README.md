@@ -7,4 +7,4 @@
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Thawzin-hein/sem2/A%20workflow%20for%20my%20Hello%20World%20App/master?style=flat-square)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Thawzin-hein/sem2/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Thawzin-hein/sem2/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square) 
